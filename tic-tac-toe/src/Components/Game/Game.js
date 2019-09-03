@@ -1,5 +1,5 @@
 import React from "react";
-import Board from "../Components/Board/Board";
+import Board from "../Board/Board";
 class Game extends React.Component {
   render() {
     return (
@@ -15,4 +15,5 @@ class Game extends React.Component {
     );
   }
 }
+
 export default Game;
